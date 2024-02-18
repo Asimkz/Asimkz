@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Asimkz/Asimkz/blob/main/unnamed.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Asim</h1>
 <h3 align="center">A passionate front-end developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
